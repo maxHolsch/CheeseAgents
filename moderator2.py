@@ -1,3 +1,4 @@
+#written with assistance of chatgpt
 from openai import OpenAI
 
 client = OpenAI(api_key="had to take mine out sorry!")
